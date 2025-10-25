@@ -7,5 +7,5 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./bilet-satin-alma:/var/www/html
+      - .:/var/www/html
     restart: unless-stopped
