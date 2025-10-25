@@ -5,24 +5,24 @@ Modern ve kullanıcı dostu otobüs bileti satış platformu.
 ##  Özellikler
 
 ### Genel Kullanıcı
-- ✅ Sefer arama ve listeleme
-- ✅ Koltuk seçimi
-- ✅ İndirim kuponu kullanma
-- ✅ Bilet satın alma
-- ✅ Bilet iptal etme (1 saat kuralı)
-- ✅ PDF bilet indirme
-- ✅ Profil ve bakiye yönetimi
+-  Sefer arama ve listeleme
+-  Koltuk seçimi
+-  İndirim kuponu kullanma
+-  Bilet satın alma
+-  Bilet iptal etme (1 saat kuralı)
+-  PDF bilet indirme
+-  Profil ve bakiye yönetimi
 
 ### Admin
-- ✅ Firma yönetimi
-- ✅ Kullanıcı yönetimi
-- ✅ Kupon yönetimi
-- ✅ İstatistikler ve raporlar
+-  Firma yönetimi
+-  Kullanıcı yönetimi
+-  Kupon yönetimi
+-  İstatistikler ve raporlar
 
 ### Firma Admin
-- ✅ Sefer eklemedüzenlemesilme
-- ✅ Sefer raporları
-- ✅ Satış istatistikleri
+-  Sefer eklemedüzenlemesilme
+-  Sefer raporları
+-  Satış istatistikleri
 
 ## 🛠️ Teknolojiler
 
